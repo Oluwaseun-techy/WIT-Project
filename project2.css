@@ -1,0 +1,91 @@
+.header{display:flex;
+    justify-content: flex-end;
+    gap: 100px;
+    background-color: #d00000;
+    padding: 60px;
+    border-radius: 5px;
+    
+}
+
+
+button{
+    border-radius: 10px;
+    background-color: #ffba08;
+    color: #d00000;
+    padding:2px 30px;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+.icons{display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+
+}
+button:hover{ color: white;
+    background-color: black;}
+
+.card{
+    width: 1800px;
+    height: 1000px;
+    box-shadow: #d00000;
+    border-radius: 10px;
+    background: linear-gradient(#edf2f4,#490720);
+    
+
+}
+.left-infor{
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    height: 1000px;
+   justify-content: flex-end;
+   align-self: start;
+
+}
+.left-infor1{
+    padding: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: large;
+    border-radius: 15px;
+    outline-color: #d00000;
+    outline-style: solid;
+    text-align: center;
+   
+    
+}
+.left-infor1 h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #d00000;}
+
+.left-infor2 h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #d00000;}
+
+.left-infor3 h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #d00000;}
+
+.left-infor2{
+    padding: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: large;
+    border-radius: 15px;
+    outline-color: #d00000;
+    outline-style: solid;
+    text-align: center;
+   
+    
+}
+
+.left-infor3{
+    padding: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: large;
+    border-radius: 15px;
+    outline-color: #d00000;
+    outline-style: solid;
+    text-align: center;
+   
+    
+
